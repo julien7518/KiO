@@ -36,6 +36,7 @@ KiO/
 - Microcontrôleur : **Seeed XIAO ESP32S3**  
 - Capteur ultrason : **HC-SR04**  
 - Écran : **SSD 1306**  
+- Double pont en H : **L293D**
 - LED RGB 4 broches  
 - Moteur DC double axe 1:48
 

@@ -2,15 +2,15 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#define TRIG_PIN A9
-#define ECHO_PIN A0
+#define TRIG_PIN A10
+#define ECHO_PIN A9
 
-#define LED_R_PIN A3
+#define LED_R_PIN A2
 #define LED_G_PIN A1
-#define LED_B_PIN A2
+#define LED_B_PIN A0
 
 #define INPUT_1 A8
-#define INPUT_2 A10
+#define INPUT_2 A3
 
 #define SCREEN_SCL 6
 #define SCREEN_SDA 5
