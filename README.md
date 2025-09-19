@@ -23,7 +23,8 @@ Un écran affiche en temps réel la distance mesurée, et une LED change de coul
 ## 📂 Structure du projet
 ```
 KiO/
-├── code/           # Code Arduino pour la gestion du capteur, LED, écran et logique d'arrêt
+├── code/
+     ├── KiO/       # Code Arduino pour la gestion du capteur, LED, écran et logique d'arrêt
 ├── footprints/     # Empreintes utilisées dans KiCad pour le PCB
 ├── symbols/        # Symboles électroniques pour KiCad
 └── README.md       # Documentation du projet
